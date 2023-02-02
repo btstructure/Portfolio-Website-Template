@@ -84,7 +84,7 @@
 // }
 
 // export default Contact;
-
+//error message and sent
 import React, { useRef, useState } from "react";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
